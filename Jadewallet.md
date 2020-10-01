@@ -5,7 +5,7 @@
 
 The feature of **MPC-based Threshold Signature** offers users the complete control over their digital assets and the ability to achieve multi-signature with keyless cryptographic security.
 
-<img src="https://ipfs.io/ipfs/QmNokuRsE5dXN4X47opiNuAcqdGB7xtKkZAwCiVh5rJigN" style="zoom: 100%;" />
+<img src="https://ipfs.io/ipfs/QmZtNG2PGQZnA1E4rkGkTxwS2tdgm9739NQRLmkXy2U5H4" style="zoom: 100%;" />
 
 The main disadvantage of multisig is that different blockchains requires different implementations, though plenty of blockchains don't even support multisig. Instead, **TSS** is obviously a better choice as it is entirely based on cryptography. Therefore, supporting **TSS** on each blockchain is always possible in spite of the blockchain's own implementation and features. Furthermore, signers' privacy will be well protected as their information won't be visible in transaction. It also reduces cost and avoids smart contract related risks since signature will be generated through **MPC** instead of executing a smart contract on chain. 
 
