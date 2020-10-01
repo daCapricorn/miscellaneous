@@ -56,8 +56,6 @@ Jadepool Hub provides **Jadewallet** services including building unsigned tx, br
 
 * Hilbert Zhou
 
-* Yi Zhang
-
 * Andy Yi
 
 * Kristie Guo
@@ -82,7 +80,6 @@ Tuolian (Shanghai) Co., Ltd.
 * Daizong Zhang: Core back-end developer of Jadepool SaaS. 5+ years Golang back-end development. Currently focusing on the blockchain field.
 * Kevin Li: 6 years of native mobile development experience. 3 years of React Native, Flutter Hybrid and front-end development experience. Graduated from Syracuse University.
 * Hilbert Zhou: 2 years of ops experience on AIX, websphere and Power. 7+ years back-end service development experience including HFT, CTA and blockchain.
-* Yi Zhang: Key member of the DEX project and the financial derivative product. Experienced in decentralized architecture design and product design. Worked for IBM as IT consultant over 7 years.
 * Andy Yi: Product manager at NBLTrust for 3 years, responsible for Jadepool SaaS design and operation. 9 years of QA Manager experience, worked for General Electric, Hua Wei and Travelzen.com.
 * Kristie Guo: Product manager of Jadepool Hub for 2+ years. 2+ years of software engineer experience at Lending Club in San Francisco. Graduated from Cornell University.
 * Steven Wu: Product manager at NBLTrust for 3 years. 6+ years of product manager and 4+ years full stack development experience. An ex start-up co-founder.
